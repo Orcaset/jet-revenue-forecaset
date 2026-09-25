@@ -1,6 +1,8 @@
-# Revenue Forecaset with Jev
+# Revenue Forecast with Jev
 
 This model builds a revenue forecast for 1,000 in-place clients using a bottoms-up approach. It queries Jev inline to determine contract renewal details from client history and CRM notes.
+
+[Jev revenue forecast with Orcaset](https://github.com/user-attachments/assets/5d14b9f0-7531-429e-9717-cfd418cadeb8)
 
 ## Run the model
 
